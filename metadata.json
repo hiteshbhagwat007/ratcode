@@ -1,0 +1,5 @@
+{
+  "name": "InstaAudit Pro",
+  "description": "A professional Instagram audit tool with Firebase authentication, PDF reporting, and admin analytics.",
+  "requestFramePermissions": []
+}
